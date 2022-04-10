@@ -12,7 +12,7 @@
 ### Step 2️⃣:
 1. Create a repo on GitHub
 2. Link it to your local repo
-3. Push your commit from `Step A` to GitHub
+3. Push your commit from `Step 1` to GitHub
 4. From GitHub
     - Edit the `index.html` file to have your name + your city name
 5. Commit the change on GitHub with the message `<your name> add city from GitHub`
