@@ -1,7 +1,7 @@
 # Git Github Project
 
 
-## Follow the following 
+## Use the following steps to complete the project: 
 - Create a new git repo
 - Create a file called `index.html`
   -  Write your name in the file
@@ -12,6 +12,7 @@
 - Commit the change on GitHub with the message `<your name> add city`
 - Pull changes to your local machine
 - Create a new file called `README.md`
-  - Run the command `git log`
-  - Take a screenshot of the output and display it in the `README.md`
+  - Write some information about yourself
 - Create a commit with the message `<put your name here> add readme`
+
+
