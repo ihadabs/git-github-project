@@ -1,4 +1,4 @@
-# Git Github Project 🗂
+# Git & Github Project 🗂
 
 
 ## Use the following steps to complete the project: 
