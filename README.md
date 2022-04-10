@@ -1,7 +1,7 @@
 # Git & Github Project 🗂
 
 
-## Use the following steps to complete the project: 
+## Complete the following steps to complete the project: 
 
 ### Step 1️⃣:
 1. Create a new git repo
