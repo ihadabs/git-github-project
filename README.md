@@ -1,15 +1,15 @@
-# Git Github Project
+# Git Github Project 🗂
 
 
 ## Use the following steps to complete the project: 
 
-### Step A:
+### Step 1️⃣:
 1. Create a new git repo
 2. Create a file called `index.html`
   -  Write your name in the file
 3. Create a commit with the message `<put your name here> first commit`
 
-### Step B:
+### Step 2️⃣:
 1. Create a repo on GitHub
 2. Link it to your local repo
 3. Push your commit from `Step A` to GitHub
@@ -17,14 +17,14 @@
   - Edit the `index.html` file to have your name + your city name
 5. Commit the change on GitHub with the message `<your name> add city from GitHub`
 
-### Step C:
+### Step 3️⃣:
 1. Pull changes to your local machine
 2. Create a new file called `README.md`
   - Write some information about yourself
 3. Create a commit with the message `<put your name here> add readme`
 4. Push to remote repo (to GitHub)
 
-### Step D:
+### Step 4️⃣:
 1. Create a new branch called `xyz`
 2. Checkout `xyz` branch
 3. Create a new file called `wisdom.html`
@@ -33,13 +33,13 @@
 5. Push `xyz` branch to GitHub
 
 
-## Commits example:
+## Commits example ✅:
 1. hadi first commit
 2. hadi add city from GitHub
 3. hadi add readme
 4. hadi add wisdom
 
-## Grading:
+## Grading 🎓:
 Project will only be graded if its pushed to GitHub.
 
 | # | Criteria | Percentage %
