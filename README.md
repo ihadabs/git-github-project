@@ -49,3 +49,4 @@ Project will only be graded if its pushed to GitHub.
 | 3 | <name> add readme   | 20
 | 4 | `xyz` branch   | 20
 | 5 | <name> add wisdom in branch `xyz`  | 20
+|  | Total  | 100
